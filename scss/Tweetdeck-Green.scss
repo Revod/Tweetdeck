@@ -4,7 +4,7 @@ $fondo: #0D1317;
 $fuente: 'Brandon Text', Helvetica Neue, HelveticaNeue, sans-serif;
 $color-rgba: rgba(0, 176, 96, 0.9) !important;
 // Cargando snnippet
-$cargando: url('https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg');
+$cargando: url('https://localhost/wp-content/themes/MetroMusic/css/puff.svg');
 // Font Weight
 $light: 300;
 $normal: 400;
@@ -15,7 +15,7 @@ $texto-estilo: lowercase;
 $favorito: #ff9b00;
 $blanco: #ffffff;
 // Fuente
-@import url(https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/fonts/font.css);
+@import url(https://localhost/wp-content/themes/MetroMusic/css/fonts/font.css);
 /*
  * Inicio del Estilo
  */
@@ -1409,7 +1409,7 @@ button {
     display: none;
 }
 .sprite {
-    background-image: url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/spritesheet.png") ;
+    background-image: url("https://localhost/wp-content/themes/MetroMusic/css/spritesheet.png") ;
 }
 .js-app-loading img.spinner-centered {
     display: none;

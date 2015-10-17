@@ -1,5 +1,5 @@
 /* Variables */
-@import url(https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/fonts/font.css);
+@import url(https://localhost/wp-content/themes/MetroMusic/css/fonts/font.css);
 /*
  * Inicio del Estilo
  */
@@ -1344,28 +1344,28 @@ note: this is disabled because i don't like it, but if it's your kind of stuff, 
  */
 .spinner-large {
   height: 50px;
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 .spinner-small {
   height: 16px;
   width: 16px;
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 .spinner-small-trans {
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 .is-inverted-dark .spinner-small {
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 /**
  * Use dark-on-light spinner when inverted
  */
 .is-inverted-dark .spinner-large {
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 /**
@@ -1441,7 +1441,7 @@ select {
 
 /* recovered from snowflake classic; spinner color fix */
 .spinner-button-icon-spinner {
-  background-image: url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg");
+  background-image: url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg");
 }
 
 /* border hotfix */
@@ -1481,7 +1481,7 @@ select {
 
 /* loading spinner fix */
 .med-embeditem {
-  background: transparent url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
+  background: transparent url("https://localhost/wp-content/themes/MetroMusic/css/puff.svg") no-repeat 50% 50%;
 }
 
 /* fixing sensitive media background */
@@ -1634,7 +1634,7 @@ button {
 }
 
 .sprite {
-  background-image: url("https://6f970db1.ngrok.com/wp-content/themes/MetroMusic/css/spritesheet.png");
+  background-image: url("https://localhost/wp-content/themes/MetroMusic/css/spritesheet.png");
 }
 
 .js-app-loading img.spinner-centered {
