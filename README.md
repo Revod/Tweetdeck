@@ -43,5 +43,5 @@ This is a bit more work and does **NOT** require Stylish
 Known issues
 -------------
 
-Known issues on color schemes variations:
+Known issues on color schemes:
 - ~~Some things are still blue. Gotta change it.~~
